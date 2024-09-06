@@ -1,0 +1,15 @@
+{
+  "originHash" : "6358921c21b0d77879aeaa6367a1b2468925b384a93f6b12d6c2dc2ef23891c1",
+  "pins" : [
+    {
+      "identity" : "metaverseplugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wabiverse/MetaversePlugin.git",
+      "state" : {
+        "revision" : "c5b20ae3e9ee715914bf7701cb1f75cfac0e638c",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
